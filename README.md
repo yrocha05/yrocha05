@@ -3,6 +3,8 @@
 
 ![Rocha GitHub stats](https://github-readme-stats.vercel.app/api?username=yrocha05&show_icons=true&theme=dark)
 
+![Rocha GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yrocha05&layout=compact&langs_count=16&theme=dark)
+
 [![Insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yrocha_05/)
 [![LinkeDin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yurirocha05/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521979642580)
